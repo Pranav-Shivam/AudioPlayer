@@ -74,7 +74,8 @@ A sophisticated, modern audio player built with React that provides a premium mu
 
 4. **Start the development server**
    ```bash
-   npm start
+   npm run build
+   npm run dev
    ```
 
 5. **Open your browser**
