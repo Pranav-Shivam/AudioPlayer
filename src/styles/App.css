@@ -125,7 +125,7 @@ body {
 .upload-area {
   border: 2px dashed var(--border-color);
   border-radius: var(--radius-xl);
-  padding: 3rem 2rem;
+  padding: 1.5rem 1rem;
   text-align: center;
   transition: all var(--transition-normal);
   background: var(--background-elevated);

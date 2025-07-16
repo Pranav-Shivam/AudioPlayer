@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.envrc
+*.json
+temp/
+*.pdf
+*.env
+*.logs
+*.log
+*.wav
+*.mp3
